@@ -1,0 +1,2 @@
+# Ocluzia-obiectelor-virtuale-in-imagini-reale-folosind-estimarea-adancimii
+Proiectul abordeaza ocluzia in realitatea augmentata: obiectele virtuale apar peste cele reale cand ar trebui acoperite. Folosind modele de estimare a adancimii (Depth Anything, MiDaS), se decide pentru fiecare pixel daca obiectul real e in fata sau in spatele celui virtual. Se compara modelele pe imagini si video, evaluand calitatea ocluziei.
